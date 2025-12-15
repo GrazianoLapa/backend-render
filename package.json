@@ -1,6 +1,7 @@
 {
   "name": "backend-render",
   "version": "1.0.0",
+  "type": "module",
   "description": "Backend Node.js rodando no Render",
   "main": "server.js",
   "scripts": {
